@@ -1,0 +1,7 @@
+C:\Users\Админ\source\repos\стратегия\стратегия\obj\Debug\стратегия.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\стратегия\стратегия\obj\Debug\стратегия.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\стратегия\стратегия\bin\Debug\стратегия.exe.config
+C:\Users\Админ\source\repos\стратегия\стратегия\bin\Debug\стратегия.exe
+C:\Users\Админ\source\repos\стратегия\стратегия\bin\Debug\стратегия.pdb
+C:\Users\Админ\source\repos\стратегия\стратегия\obj\Debug\стратегия.exe
+C:\Users\Админ\source\repos\стратегия\стратегия\obj\Debug\стратегия.pdb
